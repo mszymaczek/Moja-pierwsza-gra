@@ -1,0 +1,7 @@
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\bin\Debug\Moja pierwsza gra.exe.config
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\bin\Debug\Moja pierwsza gra.exe
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\bin\Debug\Moja pierwsza gra.pdb
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\obj\Debug\Moja pierwsza gra.csproj.AssemblyReference.cache
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\obj\Debug\Moja pierwsza gra.csproj.CoreCompileInputs.cache
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\obj\Debug\Moja pierwsza gra.exe
+C:\Users\Michał Szymaczek\source\repos\Moja pierwsza gra\Moja pierwsza gra\obj\Debug\Moja pierwsza gra.pdb
